@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "N1",
+        "room": "Netflix",
+        "teacher_id": 2
+    },
+    {
+        "id": 2,
+        "name": "N2",
+        "room": "Telegramm",
+        "teacher_id": 1
+    }
+]
